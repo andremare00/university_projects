@@ -8,7 +8,7 @@ Data cannot be published due to license concerns.
 
 - wlb.do -
 The purpose was to study the relationship between labour productivity and work-life balance.
-It contains the code of a panel regression analysis performed at the EU country level in the time span 2014-2019.
+It contains the code of a PCA and a panel regression analysis performed at the EU country level in the time span 2014-2019.
 Although I haven't published the dataset here, the Do-file includes the list of the variables used and their source.
 
 - SA on Amazon's reviews.R -
