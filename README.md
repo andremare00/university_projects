@@ -4,6 +4,7 @@ Here I include the code of few empirical analyses on real-world data carried out
 - invalsi.do -
 The purpose of the analysis was to study the relationship between test scores and class size.
 It contains the code of a cross-section regression analysis performed on microdata about 10th-grade Italian students.
+Data were recorded in the SY 2014/2015 during the "Invalsi" session (a standardized test that Italian students have to undertake).
 Data cannot be published due to license concerns.
 
 - wlb.do -
