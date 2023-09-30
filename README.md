@@ -1,5 +1,5 @@
 # university_projects
-Here I include the code of few empirical analyses on real-world data carried out during my University studies.
+Here I include the code of some empirical analyses on real-world data carried out during my University studies.
 
 - invalsi.do -
 The purpose of the analysis was to study the relationship between test scores and class size.
