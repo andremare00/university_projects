@@ -1,6 +1,11 @@
 # university_projects
 Here I include the code of some empirical analyses on real-world data carried out during my University studies.
 
+- shadow_ec.do -
+The purpose was to study whether the introduction of cash thresholds in transactions could reduce shadow economy.
+The analysis carried out focuses on the Slovakian case, and implements a Synthetic Control Method to estimate the counterfactual.
+Data is available upon request.
+
 - invalsi.do -
 The purpose of the analysis was to study the relationship between test scores and class size.
 It contains the code of a cross-section regression analysis performed on microdata about 10th-grade Italian students.
